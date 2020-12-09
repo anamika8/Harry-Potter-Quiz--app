@@ -100,7 +100,7 @@ function handleResetButton() {
 }
 
 function changeBackgroundImage() {
-  $("html").css("background-image", "url('https://vignette.wikia.nocookie.net/harrypotter/images/9/91/Death_Chamber_1.jpg/revision/latest?cb=20090327234039')");
+  $("html").css("background-image", "url(death_chamber.jpg)");
 
 }
 

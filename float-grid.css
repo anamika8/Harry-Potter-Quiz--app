@@ -10,7 +10,7 @@ color: white;
 
 
 html {
-background-image: url('https://thoughtcatalog.files.wordpress.com/2015/05/aa02a7f2-2bdd-4315-84ec-e797e572c7ec.jpeg?w=786&h=524');
+background-image: url(harry-potter.jpg);
 background-repeat : no-repeat;
 background-size : cover;
 background-color: black;
@@ -165,7 +165,7 @@ button:hover {
     }
   
   html {
-    background: url('https://thoughtcatalog.files.wordpress.com/2015/05/aa02a7f2-2bdd-4315-84ec-e797e572c7ec.jpeg?w=786&h=524') center center fixed; 
+    background: url(harry-potter.jpg) center center fixed; 
     background-size : auto 100%;
   }
 
@@ -236,7 +236,7 @@ img {
 @media only screen and (max-width: 1030px) and (min-width: 385px) {
   
   html {
-    background: url('https://thoughtcatalog.files.wordpress.com/2015/05/aa02a7f2-2bdd-4315-84ec-e797e572c7ec.jpeg?w=786&h=524') center center fixed; 
+    background: url(harry-potter.jpg) center center fixed; 
     background-size : auto 100%;
   }
 
