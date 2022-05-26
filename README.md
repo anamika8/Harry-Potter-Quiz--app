@@ -1,8 +1,8 @@
 # Harry-Potter-Quiz-App
+
 Built a quiz app for Harry Potter lovers
 
-live link : https://anamika8.github.io/Harry-Potter-Quiz-App/
-
+Live link : https://anamika8.github.io/Harry-Potter-Quiz-App/
 
 ### Overview
 
@@ -14,7 +14,7 @@ Users do have the option to restart the quiz at any point or play again after th
 
 ### Built With
 
-  - HTML
-  - CSS
-  - Javscript
-  - JQuery
+- HTML
+- CSS
+- Javscript
+- JQuery
