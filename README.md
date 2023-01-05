@@ -2,7 +2,7 @@
 
 Built a quiz app for Harry Potter lovers
 
-Live link : https://anamika8.github.io/Harry-Potter-Quiz-App/
+Live link: https://anamika8.github.io/Harry-Potter-Quiz-App/
 
 ### Overview
 
