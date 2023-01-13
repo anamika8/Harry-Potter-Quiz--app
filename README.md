@@ -14,7 +14,7 @@ Users do have the option to restart the quiz at any point or play again after th
 
 ### Built With
 
-- HTML
+- HTML5
 - CSS
 - Javscript
 - JQuery
